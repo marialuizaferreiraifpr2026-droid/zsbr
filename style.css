@@ -60,6 +60,7 @@ button {
     width: 92px;
     height: 39px;
     text-align: center;
+    align-items: center;
 }
 
 .a2 {
@@ -67,6 +68,7 @@ button {
     width: 92px;
     height: 39px;
     text-align: center;
+    align-items: center;
 }
 
 .a3 {
@@ -74,6 +76,7 @@ button {
     width: 92px;
     height: 39px;
     text-align: center;
+    align-items: center;
 }
 
 .a4 {
@@ -81,6 +84,7 @@ button {
     width: 92px;
     height: 39px;
     text-align: center;
+    align-items: center;
 }
 
 .q9 {
@@ -103,6 +107,7 @@ button {
     left: 440px;
     top: 170px;
     text-align: center;
+    align-items: center;
 }
 
 .rr2 {
@@ -113,6 +118,7 @@ button {
     left: 440px;
     top: 296px;
     text-align: center;
+    align-items: center;
 }
 
 .rr3 {
@@ -123,6 +129,7 @@ button {
     left: 440px;
     top: 380px;
     text-align: center;
+    align-items: center;
 }
 
 .rr4 {
@@ -133,6 +140,7 @@ button {
     left: 440px;
     top: 457px;
     text-align: center;
+    align-items: center;
 }
 
 .r15 {
@@ -152,6 +160,7 @@ button {
     left: 22px;
     top: 24px;
     text-align: center;
+    align-items: center;
 }
 
 .r21 {
@@ -162,6 +171,7 @@ button {
     left: 22px;
     top: 96px;
     text-align: center;
+    align-items: center;
 }
 
 .r18 {
@@ -172,6 +182,7 @@ button {
     left: 22px;
     top: 24px;
     text-align: center;
+    align-items: center;
 }
 
 .r22 {
@@ -182,6 +193,7 @@ button {
     left: 22px;
     top: 96px;
     text-align: center;
+    align-items: center;
 }
 
 .r16 {
@@ -210,6 +222,8 @@ button {
     position: absolute;
     left: 22px;
     top: 20px;
+    align-items: center;
+    text-align: center;
 }
 
 .aa2 {
@@ -353,4 +367,5 @@ button {
     width: 193px;
     height:34px ;
     text-align: center;
+    align-items: center;
  }
