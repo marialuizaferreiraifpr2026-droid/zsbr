@@ -91,6 +91,8 @@ button {
     left: 38px;
     top: 162px;
     border-radius: 5%;
+    text-align: center;
+    align-items: centerv10;
 }
 
 .rr1 {
