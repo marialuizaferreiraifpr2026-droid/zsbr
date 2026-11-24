@@ -23,8 +23,11 @@ button {
     font-size:30px ;
     text-align: center;
    color: #0657C5;
+   text-decoration: #0657C5;
 }
-
+li {
+    font-size: 20px;
+}
 .r1 {
     display: flex;
     flex-direction: column;
