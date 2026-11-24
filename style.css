@@ -3,6 +3,10 @@ body {
     margin: 0px;
 }
  
+h1 {
+    font-size:30px ;
+}
+
 h2 {
     font-size: 25px;
 }
@@ -34,30 +38,35 @@ h2 {
     border-radius: 50px;
     position: absolute;
     left: 50px;
+    text-align: center;
 }
 
 .a1 {
     background-color:#FDDE55 ;
     width: 92px;
     height: 39px;
+    text-align: center;
 }
 
 .a2 {
     background-color:#FDDE55 ;
     width: 92px;
     height: 39px;
+    text-align: center;
 }
 
 .a3 {
     background-color:#FDDE55 ;
     width: 92px;
     height: 39px;
+    text-align: center;
 }
 
 .a4 {
     background-color:#FDDE55 ;
     width: 92px;
     height: 39px;
+    text-align: center;
 }
 
 .q9 {
