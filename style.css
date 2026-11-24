@@ -4,24 +4,25 @@ body {
 }
  
 h1 {
-    font-size:35px ;
+    font-size:40px ;
     text-align: center;
 }
 
 h2 {
-    font-size:30px ;
+    font-size:35px ;
     text-align: center;
+   
 }
 
 h3 {
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
 }
 
 button {
     font-size:30px ;
     text-align: center;
-    color: white;
+   text-decoration: white;
 }
 
 .r1 {
@@ -99,6 +100,7 @@ button {
     position: absolute;
     left: 440px;
     top: 170px;
+    text-align: center;
 }
 
 .rr2 {
@@ -108,6 +110,7 @@ button {
     position: absolute;
     left: 440px;
     top: 296px;
+    text-align: center;
 }
 
 .rr3 {
@@ -117,6 +120,7 @@ button {
     position: absolute;
     left: 440px;
     top: 380px;
+    text-align: center;
 }
 
 .rr4 {
@@ -126,6 +130,7 @@ button {
     position: absolute;
     left: 440px;
     top: 457px;
+    text-align: center;
 }
 
 .r15 {
@@ -144,6 +149,7 @@ button {
     position: absolute;
     left: 22px;
     top: 24px;
+    text-align: center;
 }
 
 .r21 {
@@ -153,6 +159,7 @@ button {
     position: absolute;
     left: 22px;
     top: 96px;
+    text-align: center;
 }
 
 .r18 {
@@ -162,6 +169,7 @@ button {
     position: absolute;
     left: 22px;
     top: 24px;
+    text-align: center;
 }
 
 .r22 {
@@ -171,6 +179,7 @@ button {
     position: absolute;
     left: 22px;
     top: 96px;
+    text-align: center;
 }
 
 .r16 {
